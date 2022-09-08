@@ -1,6 +1,6 @@
 ## Sergio Sierra
 
-[![wakatime](https://wakatime.com/badge/user/1e0e8b49-a94f-431f-8ca2-93081dfb4c8b.svg)](https://wakatime.com/@1e0e8b49-a94f-431f-8ca2-93081dfb4c8b)
+[![wakatime](https://wakatime.com/badge/user/65634d68-cd01-4d76-891a-9adfdaff6109.svg)](https://wakatime.com/@65634d68-cd01-4d76-891a-9adfdaff6109)
 [![github](https://img.shields.io/github/followers/sdmunozsierra?style=social)](https://img.shields.io/github/followers/sdmunozsierra?style=social)
 [![github](https://img.shields.io/github/stars/sdmunozsierra?style=social)](https://img.shields.io/github/stars/sdmunozsierraz?style=social)
 
