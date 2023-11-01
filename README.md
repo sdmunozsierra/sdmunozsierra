@@ -10,33 +10,6 @@ Wakatime 🕝
 @sdmunozsierra [![wakatime](https://wakatime.com/badge/user/65634d68-cd01-4d76-891a-9adfdaff6109.svg)](https://wakatime.com/@65634d68-cd01-4d76-891a-9adfdaff6109)
 @pubnub_sergio [![wakatime](https://wakatime.com/badge/user/1e0e8b49-a94f-431f-8ca2-93081dfb4c8b.svg)](https://wakatime.com/badge/user/1e0e8b49-a94f-431f-8ca2-93081dfb4c8b.svg)
 
----
-
-## 🎓 Education:
-
-**Bachelor of Science in Computer Science and Minor in Math – B.S.CS**  
-The University of Texas at El Paso  
-**GPA:** 3.2/4.0  
-Key Courses: AI, Numerical Analysis, Software Construction, and more.
-
----
-
-## 💼 Work Experience:
-
-- **Cleta LLC**, Arlington, VA:  
-  🛠️ Created `Cleta.ai`, an AI platform using Azure OpenAI & AWS services like Sagemaker, EC2, etc.  
-  🌍 Designed `Cleta.io`, a DeFi platform with AWS services like Amplify, DynamoDB, Route53.
-
-- **PubNub**, Remote:  
-  🤖 AI R&D Engineer with LLM APIs: GPT-4, OpenAI functions, Claude.  
-  📊 Solutions Architect: Client-facing roles, technical analysis, demos, and solutions.
-
-- **Infinitive**, Ashburn, VA:  
-  📈 Worked on `Capital One: Purple Rain`, focusing on AWS optimization for performance & cost on logs.
-
-- **Leidos, Inc**, Reston, VA:  
-  ☁️ Developed a Cloud Distributed Scraping System, managing 20+ microservices.  
-  🌐 Led Spring Backend Microservices, delivering a SpringBoot app for backend microservices.
 
 ---
 
