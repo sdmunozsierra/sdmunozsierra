@@ -64,4 +64,5 @@ Exploring servers, constant learning, and biking my dog 🐕.
 
 📫 **Get in touch:**  
 [💌 sergiosierra@cleta.io](mailto:sergiosierra@cleta.io)
-Arlington, Virginia United States of America USA
+
+📍Arlington, Virginia United States of America USA
